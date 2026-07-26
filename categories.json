@@ -1,0 +1,18 @@
+{
+  "food": ["restaurant", "cafe", "swiggy_zomato", "office_lunch", "groceries_snacks", "street_food"],
+  "groceries": ["supermarket", "vegetables_fruits", "milk_dairy", "household_essentials", "online_grocery"],
+  "transportation": ["cab", "auto", "metro", "bus", "fuel", "car_maintenance", "parking_toll", "bike_service"],
+  "housing": ["rent", "maintenance_society", "electricity", "water", "gas_cylinder", "internet_wifi", "dth_cable", "furniture_appliances", "home_repair"],
+  "utilities": ["mobile_recharge", "broadband", "electricity_bill", "water_bill", "gas_bill"],
+  "health": ["doctor_consultation", "medicines", "diagnostic_tests", "health_insurance_premium", "gym_membership", "dental", "eye_care"],
+  "shopping": ["clothing", "footwear", "electronics_gadgets", "home_decor", "personal_care", "online_shopping"],
+  "entertainment": ["movies", "ott_subscription", "concerts_events", "gaming", "books", "hobbies"],
+  "travel": ["flight_tickets", "train_tickets", "hotel_stay", "holiday_package", "visa_travel_insurance", "local_sightseeing"],
+  "education": ["child_fees", "course_purchase", "learning_platform_subscription", "tuition", "books_study_material", "certification_exam_fee"],
+  "finance": ["emi_loan_payment", "credit_card_bill", "insurance_premium", "investment_sip", "bank_charges", "tax_payment"],
+  "personal_care": ["salon_spa", "grooming_products", "cosmetics", "haircare"],
+  "family_social": ["gifts", "family_support", "celebrations_festivals", "donations_charity", "social_outings"],
+  "work_related": ["wfh_setup", "coworking_space", "office_commute", "work_courses_certifications", "team_outing_contribution"],
+  "pets": ["pet_food", "vet_visits", "grooming", "pet_accessories"],
+  "miscellaneous": ["subscriptions_others", "repairs_others", "lost_damaged_items", "uncategorized"]
+}
